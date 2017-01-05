@@ -1,0 +1,65 @@
+{
+  "intents": [
+    {
+      "intent": "GetAmountOfIngredient",
+      "slots": [
+        {
+          "name": "NumberPizzas",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Ingredient",
+          "type": "INGREDIENT"
+        }
+      ]
+    },
+    {
+      "intent": "ChangeRecipe",
+      "slots": [
+        {
+          "name": "RecipeType",
+          "type": "RECIPE"
+        },
+        {
+          "name": "CustomRecipeIndex",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AlterRecipe",
+      "slots": [
+        {
+          "name": "Ingredient",
+          "type": "INGREDIENT"
+        },
+        {
+          "name": "NewValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ReadRecipe",
+      "slots": []
+    },
+    {
+      "intent": "ChangeSlop",
+      "slots": [
+        {
+          "name": "NewValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ChangePizzaWeight",
+      "slots": [
+        {
+          "name": "NewValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
