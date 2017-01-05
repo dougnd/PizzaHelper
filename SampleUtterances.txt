@@ -18,7 +18,7 @@ GetAmountOfIngredient how many grams of {Ingredient} should I use to make {Numbe
 GetAmountOfIngredient how many grams of {Ingredient} do I use to make {NumberPizzas} pizzas
 GetAmountOfIngredient how many grams of {Ingredient} do I add to make {NumberPizzas} pizzas
 GetAmountOfIngredient how many grams of {Ingredient} should I add to make {NumberPizzas} pizzas
-ChangeRecipe change the recipe to {Recipe}
+ChangeRecipe change the recipe to {RecipeType}
 ChangeRecipe change the recipe to custom recipe {CustomRecipeIndex}
 AlterRecipe change the percent {Ingredient} to {NewValue}
 AlterRecipe change the percent of {Ingredient} to {NewValue}
