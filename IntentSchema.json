@@ -60,6 +60,15 @@
           "type": "AMAZON.NUMBER"
         }
       ]
+    },
+    {
+      "intent": "ChangeNumberPizzas",
+      "slots": [
+        {
+          "name": "NewValue",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
     }
   ]
 }
