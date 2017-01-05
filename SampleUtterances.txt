@@ -1,0 +1,57 @@
+GetAmountOfIngredient how much {Ingredient}
+GetAmountOfIngredient how much {Ingredient} should I use
+GetAmountOfIngredient how much {Ingredient} do I use
+GetAmountOfIngredient how much {Ingredient} do I add
+GetAmountOfIngredient how much {Ingredient} should I add
+GetAmountOfIngredient how many grams of {Ingredient}
+GetAmountOfIngredient how many grams of {Ingredient} should I use
+GetAmountOfIngredient how many grams of {Ingredient} do I use
+GetAmountOfIngredient how many grams of {Ingredient} do I add
+GetAmountOfIngredient how many grams of {Ingredient} should I add
+GetAmountOfIngredient how much {Ingredient} to make {NumberPizzas} pizzas
+GetAmountOfIngredient how much {Ingredient} should I use to make {NumberPizzas} pizzas
+GetAmountOfIngredient how much {Ingredient} do I use to make {NumberPizzas} pizzas
+GetAmountOfIngredient how much {Ingredient} do I add to make {NumberPizzas} pizzas
+GetAmountOfIngredient how much {Ingredient} should I add to make {NumberPizzas} pizzas
+GetAmountOfIngredient how many grams of {Ingredient} to make {NumberPizzas} pizzas
+GetAmountOfIngredient how many grams of {Ingredient} should I use to make {NumberPizzas} pizzas
+GetAmountOfIngredient how many grams of {Ingredient} do I use to make {NumberPizzas} pizzas
+GetAmountOfIngredient how many grams of {Ingredient} do I add to make {NumberPizzas} pizzas
+GetAmountOfIngredient how many grams of {Ingredient} should I add to make {NumberPizzas} pizzas
+ChangeRecipe change the recipe to {Recipe}
+ChangeRecipe change the recipe to custom recipe {CustomRecipeIndex}
+AlterRecipe change the percent {Ingredient} to {NewValue}
+AlterRecipe change the percent of {Ingredient} to {NewValue}
+AlterRecipe change the amount of {Ingredient} to {NewValue}
+AlterRecipe alter the amount of {Ingredient} to {NewValue}
+AlterRecipe alter the percent of {Ingredient} to {NewValue}
+AlterRecipe change the amount of {Ingredient} to {NewValue} percent
+AlterRecipe alter the amount of {Ingredient} to {NewValue} percent
+AlterRecipe change the percent of {Ingredient} to {NewValue} percent
+AlterRecipe change the hydration to {NewValue}
+AlterRecipe change the percent hydration to {NewValue}
+AlterRecipe change the hydration to {NewValue} percent
+ReadRecipe read the recipe
+ReadRecipe tell me about the recipe
+ReadRecipe which recipe are you using
+ReadRecipe what is the recipe
+ChangeSlop change the slop to {NewValue}
+ChangeSlop change the slop to {NewValue} grams
+ChangeSlop change the extra dough to {NewValue}
+ChangeSlop change the extra dough to {NewValue} grams
+ChangeSlop set the slop to {NewValue}
+ChangeSlop set the slop to {NewValue} grams
+ChangeSlop set the extra dough to {NewValue}
+ChangeSlop set the extra dough to {NewValue} grams
+ChangePizzaWeight set the pizza weight to {NewValue}
+ChangePizzaWeight set the pizza weight to {NewValue} grams
+ChangePizzaWeight change the pizza weight to {NewValue}
+ChangePizzaWeight change the pizza weight to {NewValue} grams
+ChangePizzaWeight set the pizza size to {NewValue}
+ChangePizzaWeight set the pizza size to {NewValue} grams
+ChangePizzaWeight change the pizza size to {NewValue}
+ChangePizzaWeight change the pizza size to {NewValue} grams
+ChangeNumberPizzas set the number of pizzas to {NewValue}
+ChangeNumberPizzas change the number of pizzas to {NewValue}
+ChangeNumberPizzas calculate for {NewValue} pizzas
+ChangeNumberPizzas I want to make {NewValue} pizzas
